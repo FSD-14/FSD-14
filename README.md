@@ -3,7 +3,7 @@
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FSD-14&style=flat-square&color=blue" alt=""/ align="center">
 </div>
-  <h3>Beginner Full Stack Developer</h3>
+  <h3>Beginner Developer</h3>
 </div>
 <div id="social" align="center">
   <a href="https://www.linkedin.com/fsd-014">
